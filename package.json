@@ -1,0 +1,24 @@
+{
+  "name": "com.unity.xr.remoting",
+  "displayName": "XR Remoting",
+  "version": "0.0.1-preview.10",
+  "unity": "2018.1",
+  "keywords": [
+    "xrsubsystems",
+    "xreditorsubsystem",
+    "ar",
+    "augmented",
+    "reality",
+    "remoting",
+    "mock",
+    "simulation"
+  ],
+  "dependencies": {
+    "com.unity.xr.arfoundation": "1.0.0-preview.17"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/collectivemass/com.unity.xr.remoting-0.0.1-preview.10.git",
+    "revision": "b63183ccde1382730f17ef60c9fadff06c36efe1"
+  }
+}
