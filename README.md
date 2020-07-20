@@ -1,10 +1,10 @@
-#Unity XR Remoting Package
+# Unity XR Remoting Package
 
-##Overview
+## Overview
 This is a backup of the Unity XR Remoting package that used to be hosted at https://staging-packages.unity.com. It was sourced from
 https://unity.bintray.com/unity-staging/ but was archived here for the specific use of LinkedIn Learning users working on the course "Unity: AR Visualization 01 Basic Concepts" (https://www.linkedin.com/learning/unity-ar-visualization-01-basic-concepts/)
 
-##Usage
+## Usage
 To use this Unity package, please open the "Packages/manifest.json" file.
 Find the line
 ```
